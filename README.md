@@ -37,7 +37,7 @@ For a more detailed walkthrough, please view the source code in order:
 - However, the drawback of this machine learning model is that COVID-19 cases sometimes can be very abrupt where the number of cases can just skyrocket from one day to another and this model won't be able to foresee it.
 
 
-##References
+## References
 
 - https://www.mikulskibartosz.name/prophet-plot-explained/
 - https://towardsdatascience.com/forecasting-at-scale-with-facebook-prophet-a-case-study-on-its-merits-limitations-b24a694dd7c7
