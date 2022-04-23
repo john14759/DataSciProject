@@ -42,3 +42,5 @@ For a more detailed walkthrough, please view the source code in order:
 - https://www.mikulskibartosz.name/prophet-plot-explained/
 - https://towardsdatascience.com/forecasting-at-scale-with-facebook-prophet-a-case-study-on-its-merits-limitations-b24a694dd7c7
 - https://towardsdatascience.com/using-prophet-after-covid-read-this-first-fc27cd77f3d7
+- https://towardsdatascience.com/forecast-model-tuning-with-additional-regressors-in-prophet-ffcbf1777dda
+- https://facebook.github.io/prophet/docs/quick_start.html
