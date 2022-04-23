@@ -1,4 +1,4 @@
-# Covid-forecasting
+# Covid-Forecasting
 
 ## About
 This is a mini project for SC1015 (Intro to Data Science and Artificial Intelligence) which focuses on COVID-19 data collected over the pandemic. We will be using past data recorded to see whether we will be able to predict and forecast COVID-19 cases in the future.
