@@ -8,7 +8,7 @@ This is a mini project for SC1015 (Intro to Data Science and Artificial Intellig
 
 For a more detailed walkthrough, please view the source code in order:
 - [Data Cleaning & Exploratory Analysis](https://github.com/john14759/covid-forecasting/blob/main/Data%20Cleaning%20%26%20Exploratory%20Analysis.ipynb)
-- [Machine Learning model & conclusion](https://github.com/john14759/covid-forecasting/blob/main/Machine%20Learning.ipynb)
+- [Machine Learning model & conclusion](https://github.com/john14759/covid-forecasting/blob/main/Machine%20Learning%20-%20Facebook%20Prophet.ipynb)
 
 ## Contributors
 1. **@JabLau** (Jabez Lau)
