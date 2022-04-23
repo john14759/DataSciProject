@@ -4,7 +4,7 @@
 This is a mini project for SC1015 (Intro to Data Science and Artificial Intelligence) which focuses on COVID-19 data collected over the pandemic. We will be using past data recorded to see whether we will be able to predict and forecast COVID-19 cases in the future.
 
 #### Dataset retrieved from
-[Coronavirus Pandemic (COVID-19) | OurWorldInData(OWID)](https://ourworldindata.org/coronavirus)
+[Coronavirus Pandemic (COVID-19) | OurWorldInData (OWID)](https://ourworldindata.org/coronavirus)
 
 For a more detailed walkthrough, please view the source code in order:
 - [Data Cleaning & Exploratory Analysis](https://github.com/john14759/covid-forecasting/blob/main/Data%20Cleaning%20%26%20Exploratory%20Analysis.ipynb)
